@@ -6,7 +6,7 @@
 ## Project Overview
 
 
-#### This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data.I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and then power Bi for data visualizton.
+#### This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and then power Bi for data visualization.
 ---
 
 ## Tools Used
@@ -23,7 +23,7 @@
    - **Validation**: Check for any remaining inconsistencies and verify the cleaned data.
 
 ### 2. Feature Engineering
-   - **Create New Columns**:I Calculated the `Total Amount` for each transaction by multiplying `unit_price` by `quantity` and adding this as a new column.
+   - **Create New Columns**: I Calculated the `Total Amount` for each transaction by multiplying `unit_price` by `quantity` and adding this as a new column.
 
 ### 3 Load Data into PostgreSQL
 
