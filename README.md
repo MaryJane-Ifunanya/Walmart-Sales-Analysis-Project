@@ -1,4 +1,5 @@
 # Walmart-Sales-Analysis-Project
+![End to end pytheon + sql + power bi project](https://github.com/user-attachments/assets/38573361-04b8-45b2-b77e-423f1536c552)
 
 ## Walmart Data Analysis: End-to-End SQL + Python + Poer BI Project
 
