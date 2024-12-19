@@ -1,11 +1,11 @@
 # Walmart-Sales-Analysis-Project
 
-# Walmart Data Analysis: End-to-End SQL + Python + Poer BI Project
+## Walmart Data Analysis: End-to-End SQL + Python + Poer BI Project
 
 ## Project Overview
 
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data.I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and then power Bi for data visualizton.
+#### This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data.I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and then power Bi for data visualizton.
 ---
 
 ## Tools Used
