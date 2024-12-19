@@ -1,11 +1,12 @@
 # Walmart-Sales-Analysis-Project
+![End to end pytheon + sql + power bi project](https://github.com/user-attachments/assets/38573361-04b8-45b2-b77e-423f1536c552)
 
-# Walmart Data Analysis: End-to-End SQL + Python + Poer BI Project
+## Walmart Data Analysis: End-to-End SQL + Python + Power BI Project
 
 ## Project Overview
 
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data.I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and then power Bi for data visualizton.
+#### This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilized Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions and then power Bi for data visualization.
 ---
 
 ## Tools Used
@@ -22,7 +23,7 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Validation**: Check for any remaining inconsistencies and verify the cleaned data.
 
 ### 2. Feature Engineering
-   - **Create New Columns**:I Calculated the `Total Amount` for each transaction by multiplying `unit_price` by `quantity` and adding this as a new column.
+   - **Create New Columns**: I Calculated the `Total Amount` for each transaction by multiplying `unit_price` by `quantity` and adding this as a new column.
 
 ### 3 Load Data into PostgreSQL
 
